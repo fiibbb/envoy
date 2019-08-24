@@ -26,3 +26,5 @@ TAGS
 .vimrc
 .vs
 .vscode
+CMakeLists.txt
+test_config
